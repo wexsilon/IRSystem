@@ -1,0 +1,8 @@
+nltk
+numpy
+beautifulsoup4
+lxml
+matplotlib
+pandas
+pyarrow
+dataframe-image

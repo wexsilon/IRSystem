@@ -1,0 +1,10 @@
+.venv/
+.idea/
+__pycache__/
+out/
+*.pdf
+*.json
+*.docx
+*.mp4
+lab.py
+sample.py

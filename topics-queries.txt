@@ -1,0 +1,135 @@
+Mergers Acquisitions acq
+alum
+Australian Dollar austdlr
+Argentine Austral austral
+barley
+Belgian Franc bfr
+Balance of Payments bop
+Canadian Dollar can
+carcass
+castor-meal
+castor-oil
+castorseed
+citruspulp
+cocoa
+coconut
+coconut-oil
+coffee
+copper
+copra-cake
+corn
+corn-oil
+cornglutenfeed
+cotton 
+cotton-meal
+cotton-oil
+cottonseed
+Consumer Price Index cpi
+Capacity Utilisation cpu
+Crude Oil
+razilian Cruzado cruzado
+Netherlands Guilder Florin dfl
+Danish Krone Crown dkr
+U.S. Dollar dlr
+D-Mark dmk
+Greek Drachma
+earn Earnings and Earnings Forecasts 
+Portuguese Escudo
+f-cattle
+French Franc ffr
+fishmeal
+flaxseed
+Fuel Oil
+Gasoline gas
+Gross National Domestic Product gnp
+gold
+grain
+groundnut
+groundnut-meal
+groundnut-oil
+heat Heating Oil Gas Oil
+Hong Kong Dollar hk
+hog
+Housing Starts
+Personal Income
+Instalment Debt Consumer Credit instal-debt
+Interest Rates interest
+inventories
+Industrial Production Index ipi
+iron-steel
+Jet and Kerosene
+Unemployment jobs
+l-cattle
+lead
+Leading Economic Indicators lei
+lin-meal
+lin-oil
+linseed
+Italian Lira lit
+livestock
+lumber
+lupin
+meal-feed
+Mexican Peso mexpeso
+Money Foreign Exchange money-fx
+money supply
+naphtha     
+nat-gas Natural Gas
+nickel
+Norwegian Krone Crown nkr
+New Zealand Dollar nzdlr
+oat
+oilseed
+orange
+palladium
+palm-meal
+palm-oil
+palmkernel
+Spanish Peseta
+pet-chem Petro-Chemicals
+platinum
+plywood
+pork-belly
+potato
+propane
+South African Rand rand
+rape-meal
+rape-oil
+rapeseed
+red-bean
+reserves
+Retail Sales
+rice
+Malaysian Ringitt ringgit
+rubber
+Indonesian Rupiah
+rye
+Saudi Arabian Riyal saudriyal
+Swiss Franc sfr
+Shipping ship
+silk
+silver
+Singapore Dollar singdlr
+Swedish Krona Crown skr
+sorghum
+soy-meal
+soy-oil
+soybean
+Sterling stg
+strategic-metal
+sugar
+sun-meal
+sun-oil
+sunseed
+tapioca
+tea
+tin
+trade
+tung
+tung-oil
+veg-oil
+wheat
+wool
+Wholesale Price Index wpi
+Japanese Yen
+zinc
